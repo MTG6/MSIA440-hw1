@@ -2,3 +2,6 @@
 .*
 !/.gitignore
 .ipynb_checkpoints/HW1-checkpoint.ipynb
+**/*.ipynb_checkpoints/*.ipynb
+*/.ipynb_checkpoints/*
+.ipynb_checkpoints
