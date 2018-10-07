@@ -1,2 +1,3 @@
 *.lp
-.ipynb_checkpoints
+.*
+!/.gitignore
